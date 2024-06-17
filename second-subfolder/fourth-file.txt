@@ -1,1 +1,3 @@
 second
+today was a good day
+this file was modified in the branch "feature-branch"
